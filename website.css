@@ -1,0 +1,68 @@
+.section1{
+    background-image:url(backgroundimage.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    width: 100%;
+    height: 100svh; 
+    text-align: center;
+    background-attachment: fixed;
+    
+}
+.section2{
+    background-image:url(7275.jpg),linear-gradient(rgba(0,0,0,0.3),rgba(0,0,0,0.3));
+    background-repeat: no-repeat;
+    background-size :100%;
+    width: 100%;
+    height: 100vh;
+    text-align: center;
+    background-attachment: fixed;
+} 
+p{
+    background-attachment: fixed;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(82, 48, 100);
+}
+
+h1{
+    text-align: center;
+    color: rgb(38, 93, 34);
+    text-decoration: underline;
+    font-family: 'Courier New', Courier, monospace;
+     font-size: 50px;
+   
+}
+h2{
+   color: rgb(88, 12, 109); 
+}
+
+button{
+    color: rgb(41, 216, 129);
+    background-color: black;
+    align-items:center;
+    border-radius: 50px;
+}
+
+#login{
+    background-color: rgb(5, 9, 9);
+}
+#home:hover{
+    color: rgb(113, 113, 241);
+    font-weight: bold; 
+}
+#about:hover{
+    color: rgb(29, 240, 57);
+    font-weight: bold;
+}#Services:hover{
+    color: rgb(131, 230, 25);
+    font-weight: bold;
+}
+#Contact:hover{
+    color: rgb(206, 234, 25);
+    font-weight: bold;
+}
+button:hover{
+    color: rgb(168, 216, 24);
+    font-weight: bold;
+
+}
